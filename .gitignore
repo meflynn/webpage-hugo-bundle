@@ -11,3 +11,4 @@ Thumbs.db
 .Rhistory
 .Rdata
 .httr-oauth
+static/files/data-files*
