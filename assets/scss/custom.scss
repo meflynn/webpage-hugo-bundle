@@ -1,0 +1,119 @@
+/* Sitewide settings */
+
+h1 {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.table,
+th,
+td,
+tbody,
+thead,
+tfoot
+{
+  font-family: "Oswald";
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+
+
+.article-container {
+  max-width: 40em;
+  font-size: 20px;
+}
+
+/*
+$container-max-widths: (
+  sm: 560px,
+  md: 740px,
+  lg: 980px,
+  xl: 1220px
+);
+
+*/
+
+
+/* GitHub card container */
+
+.card-github {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  padding: 5px 10px ;
+  margin: 30 px;
+  width: 300px;
+  height: 600px;
+  border-radius: 20px;
+}
+
+
+.card-github-img-top {
+  margin: 100px;
+  padding: 10px 10px;
+  width: 250px;
+  position: relative;
+
+}
+
+.card-github-header {
+  padding: 2px 5px;
+  font-size: 50px;
+  font-weight: 700;
+  text-align: center;
+  margin-top: -15px;
+  background: transparent;
+}
+
+.card-github-body {
+  padding: 10px 5px;
+  font-size: 20px;
+  font-weight: 400;
+  color: "black";
+  inline-size: 300px;
+  overflow-wrap: break-word;
+}
+
+.card-links {
+  font-weight: 900;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card-github:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+
+.column {
+ margin: 20px;
+}
+
+
+/* Frame article metadata */
+
+.article-metadata {
+  background: #512888;
+  color:#f8f9fa;
+  padding-left: 3px;
+  padding-top: 2px;
+  padding-bottom: 2px
+
+}
+
+.article-metadata a {
+  color:#f8f9fa;
+}
+
+
+
+
+
