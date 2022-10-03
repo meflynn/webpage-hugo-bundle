@@ -107,7 +107,7 @@ address = {street = "101 Mid Campus Drive south", city = "Manhattan", region = "
 office_hours = ["By Appointment Only"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://michael-flynn.youcanbook.me"
+appointment_url = "https://calendly.com/meflynn"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
