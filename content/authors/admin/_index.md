@@ -51,6 +51,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/flynnpolsci
+- icon: mastodon
+  icon_pack: fab
+  link: https://fosstodon.org/@michaelflynn
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_bkNbckAAAAJ&hl=en
@@ -81,3 +84,4 @@ I have recently finished a book project that focuses on the politics of US overs
 <img src="/media/Allen_etal_Beyond_cover_OUP.jpg" style="width: 45%; margin: auto;">
 </a>
 
+<a rel="me" href="https://fosstodon.org/@michaelflynn"></a>
