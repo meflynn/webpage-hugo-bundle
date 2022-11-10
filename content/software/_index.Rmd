@@ -27,7 +27,7 @@ This page contains information on R software packages that I've developed.
   <div class="card-github-header">greenbook</div>
   <div class="card-github-body">Tools for analyzing US foreign policy spending data</div>
   <div class="card-links">
-  <a href="https://github.com/meflynn/greenbok" class="card-link">GitHub</a> 
+  <a href="https://github.com/meflynn/greenbook" class="card-link">GitHub</a> 
 </div>
 </div>
  
