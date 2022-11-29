@@ -80,7 +80,7 @@ My name is Michael Flynn. I’m currently an associate professor of political sc
 
 I have recently finished a book project that focuses on the politics of US overseas military deployments. This is forthcoming with Oxford University Press and will be released in October of 2022 and is available for pre-order at Amazon. Click the book image below!
 
-<a href="https://www.amazon.com/Beyond-Wire-Military-Deployments-BRIDGING/dp/0197633412/ref=sr_1_1?crid=2ZYU5VTHOLCG4&keywords=beyond+the+wire+flynn&qid=1660864960&sprefix=beyond+the+wire+flynn%2Caps%2C107&sr=8-1">
+<a href="https://a.co/d/7RKUOO7">
 <img src="/media/Allen_etal_Beyond_cover_OUP.jpg" style="width: 45%; margin: auto;">
 </a>
 
